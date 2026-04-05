@@ -1,5 +1,5 @@
 ---
-name: pdf_tasks_to_notebook
+name: pdf-tasks-to-notebook
 description: "Use this skill when the user wants to read a PDF in a seminar folder and transfer each separate task into markdown cells in the corresponding .ipynb notebook. Trigger on: 'read pdf and put tasks into notebook', 'split assignment into tasks', 'format seminar tasks into ipynb markdown'."
 argument-hint: "[target folder, optional pdf name, optional notebook name]"
 ---
